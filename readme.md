@@ -1,5 +1,6 @@
-Terminal / Command line - Simulation for deck.js
-================================================
+# TODO - convert this to a plugin for reveal.js
+
+# Terminal / Command line - Simulation for deck.js
 
 This is a module for the HTML Presentation framework deck.js ( https://github.com/imakewebthings/deck.js/wiki ).
 
